@@ -1,0 +1,4 @@
+spin
+====
+
+A console spinner
